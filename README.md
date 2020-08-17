@@ -23,10 +23,13 @@ Feel free to look around and see what you find.
 ---
 
 ### My languages:
+
 **Spoken**
+
 English
 
 **Code**
+
 Java, C#, Lua, JavaScript, TypeScript, GLSL, PHP, Python, Shell, HTML, CSS
 
 ### How to Reach Me
