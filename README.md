@@ -22,3 +22,10 @@ Java, C#, Lua, JavaScript, TypeScript, GLSL, PHP, Python, Shell, HTML, CSS
 
 The best way to get ahold of me for any reason is through my email at thedudefromci@gmail.com.
 I'm usually free for a chat, so don't hesitate to drop me a message.
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TheDudeFromCI&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeFromCI&layout=compact&count_private=true&include_all_commits=true&hide_border=true"/>
+</p>
