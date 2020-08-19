@@ -11,7 +11,7 @@ I'm TheDudeFromCI, a game dev enthusist. I spend most of my free time writing va
 
 I have many projects listed in my public repo list, and am currently the lead developer for the following organizations:
 
-**[NG-HASTE](https://github.com/ng-haste)**
+<img src="https://avatars1.githubusercontent.com/u/61681152?s=400&v=4" width="32"/> **[NG-HASTE](https://github.com/ng-haste)**
 
 <img src="https://avatars0.githubusercontent.com/u/65338145?s=200&v=4" width="32"/> **[Wraithaven-UnityTools](https://github.com/Wraithaven-UnityTools)**
 
