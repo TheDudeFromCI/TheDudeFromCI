@@ -51,10 +51,10 @@ Feel free to look around and see what you find.
 I'm available on multiple different platforms. Use whatever you like. I'm always available for a chat!
 
 <p align="center">
-  <img src="twitter.svg" width="32"/>
-  <img src="youtube.svg" width="32"/>
-  <img src="linkedin.svg" width="32"/>
-  <img src="email.svg" width="32"/>
+  <a href="https://twitter.com/TheDudeFromCI"><img src="twitter.svg" width="32"/></a>
+  <a href="https://www.youtube.com/channel/UCjDA4wc3faOc7-5oAq_e12Q"><img src="youtube.svg" width="32"/></a>
+  <a href="https://www.linkedin.com/in/bryan-brown-578150186/"><img src="linkedin.svg" width="32"/></a>
+  <a href="mailto:thedudefromci@gmail.com"><img src="email.svg" width="32"/></a>
 </p>
 
 Icons made by [FlatIcon](https://www.flaticon.com)
