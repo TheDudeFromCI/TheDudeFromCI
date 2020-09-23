@@ -51,10 +51,10 @@ Feel free to look around and see what you find.
 I'm available on multiple different platforms. Use whatever you like. I'm always available for a chat!
 
 <p align="center">
-  <img src="twitter.svg" width="64"/>
-  <img src="youtube.svg" width="64"/>
-  <img src="linkedin.svg" width="64"/>
-  <img src="email.svg" width="64"/>
+  <img src="twitter.svg" width="32"/>
+  <img src="youtube.svg" width="32"/>
+  <img src="linkedin.svg" width="32"/>
+  <img src="email.svg" width="32"/>
 </p>
 
 Icons made by [FlatIcon](https://www.flaticon.com)
