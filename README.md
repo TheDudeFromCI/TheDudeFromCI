@@ -19,15 +19,9 @@ Feel free to look around and see what you find.
 
 ---
 
-### Languages
+### Programming Languages
 
-**Spoken**
-
-English
-
-**Code**
-
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="48"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="48"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" width="48"/>
@@ -39,9 +33,9 @@ English
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48"/>
 </P>
 
-**Other Techs**
+#### Other Tech
 
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" width="32"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" width="32"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" width="32"/>
@@ -56,13 +50,14 @@ English
 
 I'm available on multiple different platforms. Use whatever you like. I'm always available for a chat!
 
-<p>
-  <img src="./twitter.svg" width="64"/>
-  <img src="./youtube.svg" width="64"/>
-  <img src="./linkedin.svg" width="64"/>
-  <img src="./email.svg" width="64"/>
+<p align="center">
+  <img src="twitter.svg" width="64"/>
+  <img src="youtube.svg" width="64"/>
+  <img src="linkedin.svg" width="64"/>
+  <img src="email.svg" width="64"/>
 </p>
-Icons made by [FlatIcon](https://www.flaticon.com>)
+
+Icons made by [FlatIcon](https://www.flaticon.com)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thedudefromci.readme)
