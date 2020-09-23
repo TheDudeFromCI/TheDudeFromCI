@@ -62,5 +62,7 @@ I'm available on multiple different platforms. Use whatever you like. I'm always
   <img src="./linkedin.svg" width="64"/>
   <img src="./email.svg" width="64"/>
 </p>
+Icons made by [FlatIcon](https://www.flaticon.com>)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thedudefromci.readme)
