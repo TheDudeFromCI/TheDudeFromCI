@@ -46,6 +46,8 @@ One of my current big interests is developing Mineflayer bots and plugins. I cur
   <img src="https://avatars0.githubusercontent.com/u/53162534?s=200&v=4" width="32"/>
   <img src="https://avatars0.githubusercontent.com/u/44036562?s=200&v=4" width="32"/>
   <img src="https://avatars2.githubusercontent.com/u/52924476?s=200&v=4" width="32"/>
+  <img src="https://avatars2.githubusercontent.com/u/52924476?s=200&v=4" width="32"/>
+  <img src="https://pbs.twimg.com/profile_images/958974695/infinity-logo_400x400.png" width="32"/>
 </p>
 
 ---
