@@ -19,6 +19,10 @@ Feel free to look around and see what you find.
 
 ---
 
+One of my current big interests is developing Mineflayer bots and plugins. I currently run a tutorial series on YouTube for how to create your own Minecraft bots using Mineflayer. You can find the tutorial [here.](https://www.youtube.com/playlist?list=PLh_alXmxHmzGy3FKbo95AkPp5D8849PEV)
+
+---
+
 ### Programming Languages
 
 <p align="center">
