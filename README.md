@@ -66,5 +66,14 @@ I'm available on multiple different platforms. Use whatever you like. I'm always
 
 Icons made by [FlatIcon](https://www.flaticon.com)
 
+---
+
+Like my content?
+Please show your support and buy me a coffee! :D
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=6U3RFW3H3Y7AU&currency_code=USD&source=url"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" width="128"/></a>
+
+
+---
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thedudefromci.readme)
