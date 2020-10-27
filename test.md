@@ -1,0 +1,62 @@
+<p>
+<svg width="300" height="100" preserveAspect="true" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .smooth_anim {
+      transition: all .2s ease-in-out;
+    }
+
+    .content {
+      fill: #aaaabb;
+    }
+
+    .content:hover {
+      fill: #88aa88;
+      transform: translate(-2.5%, -2.5%) scale(1.05);
+    }
+
+    .content:hover image {
+      transform: rotate(-15deg);
+    }
+
+    .maintext {
+      fill: rgb(25, 25, 25);
+      font-weight: 700;
+      font-family: Tahoma, Geneva, sans-serif;
+    }
+    
+    .content:hover .maintext {
+      transform: translate(0%, -10%);
+    }
+
+    .subtext {
+      fill: rgb(50, 50, 50, 0);
+      font-weight: 100;
+      font-family: Verdana, Geneva, sans-serif;
+      font-style: italic;
+    }
+
+    .content:hover .subtext {
+      fill: rgb(50, 50, 50, 1);
+    }
+
+    .shadow {
+      filter: drop-shadow(3px 3px 2px rgba(0, 0, 0, .5));
+    }
+  </style>
+
+  <a href="https://github.com/PrismarineJS">
+    <svg class="content smooth_anim shadow" x="7.5%" y="7.5%" width="85%" height="85%">
+      <style>
+        image {
+          transform-origin: 22.5% 50%;
+        }
+      </style>
+
+      <rect x="0" y="0" width="100%" height="100%" rx="15"/>
+      <image class="smooth_anim" x="0%" y="10%" width="40%" height="80%" href="./prismarine_js_icon.png" />
+      <text class="maintext smooth_anim" x="65%" y="50%" dominant-baseline="middle" text-anchor="middle">PrismarineJS</text>
+      <text class="subtext smooth_anim" x="65%" y="65%" dominant-baseline="middle" text-anchor="middle">Check it out!</text>
+    </svg>
+  </a>
+</svg>
+</p>
