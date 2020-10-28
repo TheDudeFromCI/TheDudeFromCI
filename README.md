@@ -7,7 +7,7 @@
 
 <h1 align="center">Hello!</h1>
 
-I'm TheDudeFromCI, a game dev enthusist. I spend most of my free time writing various open source software tools, frameworks, and assets, usually involving video games in some way. I've been doing this for many years now, and I hope that some of my content suits your needs and serves you well.
+I'm TheDudeFromCI, a game dev enthusiast. I spend most of my free time writing various open source software tools, frameworks, and assets, usually involving video games in some way. I've been doing this for many years now, and I hope that some of my content suits your needs and serves you well.
 
 ---
 

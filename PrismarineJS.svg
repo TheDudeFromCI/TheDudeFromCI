@@ -1,4 +1,4 @@
-<svg width="300" height="100" preserveAspect="true" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" width="300" height="100" preserveAspect="true" xmlns="http://www.w3.org/2000/svg">
   <style>
     .smooth_anim {
       transition: all .2s ease-in-out;
@@ -76,6 +76,9 @@
             d="m 1358,828 c -13,-10 -17,-37 -20,-131 -3,-109 -5,-120 -26,-137 -21,-18 -31,-60 -13,-60 16,0 61,42 76,70 16,31 22,270 7,270 -5,0 -15,-6 -24,-12 z"
             fill="#29594b" />
         </g>
+
+        <animate attributeType="CSS" attributeName="opacity" 
+           from="1" to="0" dur="1s" repeatCount="indefinite" />
       </svg>
 
       <text class="maintext smooth_anim" x="65%" y="50%" dominant-baseline="middle" text-anchor="middle">PrismarineJS</text>
