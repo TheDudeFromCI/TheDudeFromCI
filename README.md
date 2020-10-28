@@ -13,7 +13,7 @@ I'm TheDudeFromCI, a game dev enthusiast. I spend most of my free time writing v
 
 I have many projects listed in my public repo list, and I'm highly active in
 
-<img src="https://raw.githubusercontent.com/TheDudeFromCI/TheDudeFromCI/master/PrismarineJS.svg"/>
+<img src="https://raw.githubusercontent.com/TheDudeFromCI/TheDudeFromCI/master/PrismarineJS_auto.svg"/>
 
 Feel free to look around and see what you find!
 
