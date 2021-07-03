@@ -10,14 +10,15 @@
 I'm TheDudeFromCI, a game dev enthusiast. I spend most of my free time writing various open source software tools, frameworks, and assets, usually involving video games in some way. I've been doing this for many years now, and I hope that some of my content suits your needs and serves you well.
 
 ---
-
+<!--
 I have many projects listed in my public repo list, and I'm highly active in
 
-<img src="https://raw.githubusercontent.com/TheDudeFromCI/TheDudeFromCI/master/PrismarineJS_auto.svg"/>
+<img src="https://raw.githubusercontent.com/TheDudeFromCI/TheDudeFromCI/master/PrismarineJS_auto.svg"/
 
 Feel free to look around and see what you find!
 
 ---
+-->
 
 One of my current big interests is developing Mineflayer bots and plugins. I currently run a tutorial series on YouTube for how to create your own Minecraft bots using Mineflayer. You can find the tutorial [**here.**](https://www.youtube.com/playlist?list=PLh_alXmxHmzGy3FKbo95AkPp5D8849PEV)
 
@@ -66,14 +67,6 @@ I'm available on multiple different platforms. Use whatever you like. I'm always
 </p>
 
 Icons made by [FlatIcon](https://www.flaticon.com)
-
----
-
-Like my content?
-Please show your support and buy me a coffee! :D
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=6U3RFW3H3Y7AU&currency_code=USD&source=url"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" width="128"/></a>
-
 
 ---
 
