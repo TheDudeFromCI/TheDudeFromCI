@@ -37,6 +37,7 @@ I'm TheDudeFromCI, a game dev enthusiast. I spend most of my free time writing v
   <img src="https://avatars2.githubusercontent.com/u/52924476?s=200&v=4" width="32"/>
   <img src="https://pbs.twimg.com/profile_images/958974695/infinity-logo_400x400.png" width="32"/>
   <img src="https://avatars3.githubusercontent.com/u/11053411?s=200&v=4" width="32"/>
+  <img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" width="32"/>
 </p>
 
 ---
