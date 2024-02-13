@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheDudeFromCI&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeFromCI&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=TheDudeFromCI&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeFromCI&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheDudeFromCI"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TheDudeFromCI"/>
+  </a>
 </p>
 
 ---
